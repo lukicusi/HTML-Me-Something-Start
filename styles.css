@@ -1,1 +1,8 @@
 /* Write your CSS here! */
+.header-images {
+    height: 450px;
+}
+
+img {
+    height: 400px;
+}
